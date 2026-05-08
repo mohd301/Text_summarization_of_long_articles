@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+train.csv
+filter.ipynb
+filtered_data.csv
+chaos.ipynb
