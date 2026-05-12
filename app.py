@@ -7,7 +7,7 @@ from nltk.tokenize import word_tokenize
 import contractions
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
-
+nltk.download('punkt_tab') 
 nltk.download('punkt')
 nltk.download('wordnet')
 nltk.download('stopwords')
